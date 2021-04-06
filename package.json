@@ -1,0 +1,27 @@
+{
+  "name": "face-annotator-core-ml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xjarvik/face-annotator-core-ml.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xjarvik/face-annotator-core-ml/issues"
+  },
+  "homepage": "https://github.com/xjarvik/face-annotator-core-ml#readme",
+  "dependencies": {
+    "@tensorflow-models/blazeface": "^0.0.7",
+    "@tensorflow/tfjs": "^3.3.0",
+    "@tensorflow/tfjs-converter": "^3.3.0",
+    "@tensorflow/tfjs-core": "^3.3.0",
+    "image-pixels": "^2.2.2"
+  }
+}
